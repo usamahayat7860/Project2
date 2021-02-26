@@ -1,0 +1,154 @@
+CURRICULUM:
+ - name: Scripting Training - Bash and Python Scripting !
+   sections: 
+     - name: Shell Scripting !
+       topics:
+        - Linux Shell !
+        - Introduction to Bash !
+        - Introduction to Linux process !
+        - Positional Parameters !
+        - Conditional statements !
+        - Loops in Bash !
+        - Function !
+        - GetOps !
+        - Case statement @
+        - Linux Administration using shell scripting @
+        - Real time scripts for different system administration activities @
+     - name: Python Programming @
+       topics: 
+        - Why Python? @
+        - Introduction to Object oriented programming @
+        - Interactive programming concepts - Data Types @
+        - Dictionary, List and Tuples @
+        - Loop, Function, conditional s/tatements @
+        - Python modules and real time use - Creating module in python
+        - Practical scripts and real time examples       
+ - name: Pre-Requisites - All Major prerequisites for this training
+   sections: 
+     - name: Linux Administration
+       topics:
+        - Package managers in Linux
+        - Introduction to Web Applications
+        - Apache and Apache modules
+        - PHP Web Application frameworks
+        - Application Servers and Tomcat
+        - Java Web application frameworks
+        - Database Servers - MySQL
+        - A sample Web application that run in Linux environment.       
+     - name: Networking Concepts
+       topics:
+        - Networking basics
+        - Internet and ISPs
+        - NAT gateways, Routers and Switches
+        - DNS
+        - Hosting your first website and running your webapplication       
+     - name: Linux Basics
+       topics:
+        - Basic Linux Commands
+        - User management in Linux
+        - Permissions
+        - Troubleshooting and Log management       
+ - name: AWS Training
+   sections:
+     - name: IAM
+       topics:
+        - Access management - Introduction
+        - Restricting your aws resources access.
+        - IAM Users
+        - IAM Groups
+        - IAM Roles
+        - Access Key and Secret Keys
+        - Integrating your running applications with AWS cloud.        
+     - name: SES
+       topics:
+        - SMTP - Introduction
+        - SMTP as a service
+        - Sending out emails from your running applications        
+     - name: RDS
+       topics:
+        - Relational Databases - Introduction
+        - Introduction to PaaS
+        - Running yout relational databases in Cloud
+        - Migrating your existing Databases to Cloud
+        - Security Practices to secure your data.       
+     - name: S3
+       topics:
+        - Object storages and significance.
+        - Storing your Objects in cloud
+        - Integrating your php / java applications with S3
+        - Static Website Hosting at cheap price
+        - Versioning
+        - S3 for Backup       
+     - name: Autoscaling   
+       topics:
+        - Scaling your applications based on Demand
+        - Significance of Autoscaling in modern infrastructures.
+        - Sample scenarios
+        - Autoscaling groups
+        - Launch Configurations
+        - Integration with Ansible.
+     - name: Route 53
+       topics:
+        - Hosted Zone
+        - Hosting your first website
+        - A, MX and CNAME records
+        - High Availability for your webapplications across multiple regions.
+        - Failover and Health Checks 
+     - name: CloudFront
+       topics:
+        - Introduction to Content Delivery Networks.
+        - CDN as a service
+        - Running your website in Cloudfront for fast access by Internet
+        - DNS Load Balancing and CDNs       
+     - name: EC2 - Virtual Machine management in AWS 
+       topics:
+        - Introduction Cloud Computing and Virtualization
+        - AWS Global Architecture
+        - Instance types
+        - Elastic Block Storage (EBS)
+        - Key Pairs and Automation
+        - Elastic IP and Dynamic IP
+        - AMI, Snapshot
+        - Security Groups
+     - name: Python Integration
+       topics:
+        - Manage your AWS cloud using a python program
+        - Python boto module for AWS automation.
+        - Importance of Python in cloud computing.
+        - Best practices.  
+     - name: CloudWatch 
+       topics:
+        - Monitoring your AWS resources
+        - Significance of monitoring
+        - Monitoring and scaling your applications
+        - Metrices
+        - Alarms  
+        - Events
+        - Cloudwatch Vs Nagios
+     - name: VPC 
+       topics:
+        - Networking Concepts in AWS
+        - Traditional Networking and Cloud Networking.
+        - Bulding your first Network in the Cloud
+        - Internet Gateways in Cloud
+        - Private and Public Networks
+        - Subnets and Routing Tables
+        - ACLS, Security Groups
+        - NAT Gateways and their functions
+        - Security practices in VPC.
+        - Designing a tier 3 application infrastructure in cloud    
+     - name: ELB - Elastic Loadbalancers
+       topics:
+        - Target Groups
+        - LoadBalancers
+        - Roundrobin and application performance.
+        - Running your web applications behind LoadBalancers
+        - Health Checks and High availability.
+        - Cross Zone Load Balancing.
+        - Grouping your machines for LoadBalancing, Best Practices.    
+     - name: AWS CLI Tools 
+       topics:
+        - Automating your infrastructure.
+        - Importance of Automation in modern infrastructures.
+        - Build an infrastructure from your scripts.
+        - Best Automation practices followed by companies.      
